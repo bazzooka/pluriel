@@ -21,6 +21,6 @@
     "url": "https://github.com/swestrich/pluralize-fr/issues"
   },
   "devDependencies": {
-    "ava": "0.0.4"
+    "unit.js": "2.x.x"
   }
 }
