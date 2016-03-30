@@ -1,26 +1,26 @@
 {
-  "name": "pluriel",
-  "version": "0.0.0",
-  "description": "Simple pluriel des noms francais",
+  "name": "pluralize-fr",
+  "version": "1.0.1",
+  "description": "Plural form for nouns in French",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bazzooka/pluriel.git"
+    "url": "https://github.com/swestrich/pluralize-fr"
   },
   "keywords": [
-    "pluriel",
-    "simple",
-    "pluriel"
+    "plural",
+    "french",
+    "pluralize"
   ],
-  "author": "bazzooka",
-  "license": "BSD-2-Clause",
+  "author": "swestrich",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bazzooka/pluriel/issues"
+    "url": "https://github.com/swestrich/pluralize-fr/issues"
   },
   "devDependencies": {
-    "ava": "0.0.4"
+    "unit.js": "2.x.x"
   }
 }
